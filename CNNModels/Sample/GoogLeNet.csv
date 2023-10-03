@@ -1,0 +1,3 @@
+model_name,name,kernel_depth,kernel_height,kernel_width,tensor_count,input_shape,output_shape,tensor_shape,input_height,input_width,input_depth,output_height,output_width,output_depth,act_precision,wt_precision
+GoogLeNet,Conv2D,96,3,3,128,"(None, 26, 26, 96)","(None, 26, 26, 128)","(3, 3, 96)",26,26,96,26,26,128,8,8
+GoogLeNet,Dense,1,1024,1,1,"(None, 1024)","(None, 1000)","(1024, 1, 1)",3,3,528,1000,1,1,8,8
