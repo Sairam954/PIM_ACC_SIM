@@ -1,0 +1,2 @@
+Name,Model,Total_Run_Time,Total_Data_Movement,Total_MAC_Energy,Utilized_PE,Idle_PE,BottleNeck_Ratio
+DRISA_1T1C_NOR,GoogLeNet,25501258992,114870536,59670,3735094129,466774621327,0.0045045045045045045
