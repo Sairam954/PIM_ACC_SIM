@@ -7,7 +7,7 @@ This is a simulator for evaluating the inference performance of In-DRAM CNN acce
     python main.py
 
 ### Video Tutorial
-Upload on the way
+https://youtu.be/CHnlewJt8-Q
 
 
 ### Accelerator Configuration 
