@@ -6,7 +6,7 @@ import math
 import matplotlib.pyplot as plt
 import torch.nn.functional as F
 import datetime
-from config import *
+from Config import *
 
 cnnModelDirectory = "CNNModels//"
 modelList = [f for f in listdir(cnnModelDirectory) if isfile(join(cnnModelDirectory, f))]
